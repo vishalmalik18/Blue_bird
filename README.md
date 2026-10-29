@@ -1,4 +1,8 @@
+# 🦉Blue Bird
 
+## Project
+
+## Problem Statement
 
 ## Prerequisites
 Make sure you have installed:
@@ -12,17 +16,21 @@ Make sure you have installed:
 ```bash
 git clone https://github.com/vishalmalik18/Blue_bird.git
 ```
-
 2. Open the project folder
-
+```bash
+cd Blue_bird
+```
 3. Install the required Python libraries
 ```bash
 pip install requirments.txt
 ```
-
-5. Download the AI model
+4. Download the AI model
 ```bash
 ollama pull gemma4:e2b
+```
+5. Run the application:
+```bash
+streamlit run app.py
 ```
 
 ## 🛠️ Technology Stack
