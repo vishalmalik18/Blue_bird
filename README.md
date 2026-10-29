@@ -16,10 +16,14 @@ git clone https://github.com/vishalmalik18/Blue_bird.git
 2. Open the project folder
 
 3. Install the required Python libraries
+```bash
 pip install requirments.txt
+```
 
-4. Download the AI model
+5. Download the AI model
+```bash
 ollama pull gemma4:e2b
+```
 
 ## 🛠️ Technology Stack
 - Python
