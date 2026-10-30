@@ -1,8 +1,10 @@
 # 🦉Blue Bird
 
 ## Project
+Blue Bird is a bird analysis application that allows users to upload a bird image and ask questions about it. The application uses Gemma through Ollama to analyze the image and provide information about the bird.
 
 ## Problem Statement
+Identifying and learning about birds can be difficult without proper knowledge or resources. Blue Bird provides a simple way to explore bird images and learn about their possible species, appearance, behavior, habitat, and other related information.
 
 ## Prerequisites
 Make sure you have installed:
